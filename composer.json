@@ -26,8 +26,8 @@
     }
   },
   "suggest": {
-    "yoanm/jsonrpc-params-symfony-validator-sdk": "Compatible params validator",
-    "yoanm/jsonrpc-server-doc-sdk": "Create documentation for your server",
+    "symfonyx/jsonrpc-params-symfony-validator-sdk": "Compatible params validator",
+    "symfonyx/jsonrpc-server-doc-sdk": "Create documentation for your server",
     "symfonyx/symfony-jsonrpc-http-server": "JSON-RPC HTTP Symfony server Bundle"
   },
   "require": {
