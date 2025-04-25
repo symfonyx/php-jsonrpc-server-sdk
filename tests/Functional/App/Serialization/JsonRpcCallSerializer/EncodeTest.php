@@ -58,7 +58,7 @@ class EncodeTest extends TestCase
 
         $this->assertSame(
             $encoded,
-            json_encode($decoded)
+            json_encode($decoded, JSON_FORCE_OBJECT)
         );
     }
 }
